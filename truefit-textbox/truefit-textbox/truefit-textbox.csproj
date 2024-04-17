@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>truefit_textbox</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyVersion>1.0.0.5</AssemblyVersion>
+    <FileVersion>1.0.0.5</FileVersion>
+    <Title>TrueFit Textbox</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Company>Q-Optics</Company>
+    <Description>Textbox designed for TrueFit</Description>
+    <Version>$(AssemblyVersion)</Version>
+  </PropertyGroup>
+
+</Project>
